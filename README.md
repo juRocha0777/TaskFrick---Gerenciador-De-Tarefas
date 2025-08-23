@@ -1,6 +1,6 @@
 # TaskFriP---Gerenciador-De-Tarefas
 TaskFriP é um gerenciador de tarefas full-stack pensado para estudantes universitários. O projeto reúne um backend robusto em Spring Boot e um frontend moderno em React com TypeScript. A proposta é oferecer uma experiência simples, funcional e gratuita — com recursos como categorias, prazos, notificações e futura integração com o Google Calendar.
-# 🧠 TaskFrick
+# 🧠 TaskFriP
 
 **Gerenciador de tarefas full-stack para universitários.**  
 Backend em **Spring Boot**, frontend em **React + TypeScript**. Gratuito, prático e com recursos úteis pra quem precisa organizar a vida acadêmica e pessoal.
