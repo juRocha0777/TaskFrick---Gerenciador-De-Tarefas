@@ -1,5 +1,5 @@
-# TaskFrick---Gerenciador-De-Tarefas
-TaskFrick é um gerenciador de tarefas full-stack pensado para estudantes universitários. O projeto reúne um backend robusto em Spring Boot e um frontend moderno em React com TypeScript. A proposta é oferecer uma experiência simples, funcional e gratuita — com recursos como categorias, prazos, notificações e futura integração com o Google Calendar.
+# TaskFriP---Gerenciador-De-Tarefas
+TaskFriP é um gerenciador de tarefas full-stack pensado para estudantes universitários. O projeto reúne um backend robusto em Spring Boot e um frontend moderno em React com TypeScript. A proposta é oferecer uma experiência simples, funcional e gratuita — com recursos como categorias, prazos, notificações e futura integração com o Google Calendar.
 # 🧠 TaskFrick
 
 **Gerenciador de tarefas full-stack para universitários.**  
@@ -20,14 +20,14 @@ Backend em **Spring Boot**, frontend em **React + TypeScript**. Gratuito, práti
 - React
 - TypeScript
 - Vite ou Create React App
-- Tailwind CSS (talvez)
+- Tailwind CSS
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-TaskFrick/
+TaskFriP/
 ├── backend/
 │   └── gerenciador-tarefas/
 │       ├── src/
