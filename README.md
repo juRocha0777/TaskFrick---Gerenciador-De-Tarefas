@@ -19,7 +19,6 @@ Backend em **Spring Boot**, frontend em **React + TypeScript**. Gratuito, práti
 ### Frontend (futuramente)
 - Angular
 - TypeScript
-- Vite ou Create React App
 - Tailwind CSS
 
 ---
